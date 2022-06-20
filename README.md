@@ -21,9 +21,9 @@ SQL (Structured Query Language) is used to manage relational database management
 3. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%202%20SELECT%20%26%20ORDER/196.%20Delete%20Duplicate%20Emails.sql">Delete Duplicate Emails</a></br>
 
 <h2> Day 3:</h2>
-1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%203/1667.%20Fix%20Names%20in%20a%20Table.sql">Fix Names in a Table</a></br>
-2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%203/1484.%20Group%20Sold%20Products%20By%20The%20Date.sql">Group Sold Products By The Date</a></br>
-3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%203/1527.%20Patients%20With%20a%20Condition.sql">Patients With a Condition</a></br>
+1. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/Day%203%20STRING%20PROCESSING%20FUNCTIONS/1667.%20Fix%20Names%20in%20a%20Table.sql">Fix Names in a Table</a></br>
+2. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/Day%203%20STRING%20PROCESSING%20FUNCTIONS/1484.%20Group%20Sold%20Products%20By%20The%20Date.sql">Group Sold Products By The Date</a></br>
+3. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/Day%203%20STRING%20PROCESSING%20FUNCTIONS/1527.%20Patients%20With%20a%20Condition.sql">Patients With a Condition</a></br>
 
 <h2> Day 4:</h2>
 1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/1965.%20Employees%20With%20Missing%20Information.SQL">Employees With Missing Information</a></br>
