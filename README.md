@@ -46,10 +46,10 @@ SQL (Structured Query Language) is used to manage relational database management
 3. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%207%20FUNCTION/1729.%20Find%20Followers%20Count.sql">Find Followers Count</a></br>
 
 <h2> Day 8:</h2>
-1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%208/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql">Customer Placing the Largest Number of Orders</a></br>
-2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%208/511.%20Game%20Play%20Analysis%20I.sql">Game Play Analysis I</a></br>
-3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%208/1890.%20The%20Latest%20Login%20in%202020.sql">The Latest Login in 2020</a></br>
-4. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%208/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql">Find Total Time Spent by Each Employee</a></br>
+1. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%208%20FUNCTION/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql">Customer Placing the Largest Number of Orders</a></br>
+2. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%208%20FUNCTION/511.%20Game%20Play%20Analysis%20I.sql">Game Play Analysis I</a></br>
+3. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%208%20FUNCTION/1890.%20The%20Latest%20Login%20in%202020.sql">The Latest Login in 2020</a></br>
+4. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%208%20FUNCTION/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql">Find Total Time Spent by Each Employee</a></br>
 
 <h2> Day 9:</h2>
 1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%209/1393.%20Capital%20Gain-Loss.sql">Capital Gain-Loss</a></br>
