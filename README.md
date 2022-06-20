@@ -32,9 +32,9 @@ SQL (Structured Query Language) is used to manage relational database management
 4. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%204%20UNION%20%26%20SELECT/176.%20Second%20Highest%20Salary.sql">Second Highest Salary</a></br>
 
 <h2> Day 5:</h2>
-1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%205/175.%20Combine%20Two%20Tables.sql">Combine Two Tables</a></br>
-2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%205/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql">Customer Who Visited but Did Not Make Any Transactions</a></br>
-3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%205/1148.%20Article%20Views%20I.sql">Article Views I</a></br>
+1. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%205%20UNION/175.%20Combine%20Two%20Tables.sql">Combine Two Tables</a></br>
+2. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%205%20UNION/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql">Customer Who Visited but Did Not Make Any Transactions</a></br>
+3. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%205%20UNION/1148.%20Article%20Views%20I.sql">Article Views I</a></br>
 
 <h2> Day 6:</h2>
 1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%206/197.%20Rising%20Temperature.sql">Rising Temperature</a></br>
