@@ -57,9 +57,9 @@ SQL (Structured Query Language) is used to manage relational database management
 3. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%209%20CONTROL%20OF%20FLOW/1158.%20Market%20Analysis%20I.sql">Market Analysis I</a></br>
 
 <h2> Day 10:</h2>
-1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%2010/182.%20Duplicate%20Emails.sql">Duplicate Emails</a></br>
-2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%2010/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql">Actors and Directors Who Cooperated At Least Three Times</a></br>
-3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%2010/1587.%20Bank%20Account%20Summary%20II.sql">Bank Account Summary II</a></br>
-4. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%2010/1084.%20Sales%20Analysis%20III.sql">Sales Analysis III</a></br>
+1. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%2010%20WHERE/182.%20Duplicate%20Emails.sql">Duplicate Emails</a></br>
+2. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%2010%20WHERE/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql">Actors and Directors Who Cooperated At Least Three Times</a></br>
+3. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%2010%20WHERE/1587.%20Bank%20Account%20Summary%20II.sql">Bank Account Summary II</a></br>
+4. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%2010%20WHERE/1084.%20Sales%20Analysis%20III.sql">Sales Analysis III</a></br>
 </br></br>
 <img src="./SQL-Badge.jpg">
