@@ -41,9 +41,9 @@ SQL (Structured Query Language) is used to manage relational database management
 2. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%206%20UNION/607.%20Sales%20Person.sql">Sales Person</a></br>
 
 <h2> Day 7:</h2>
-1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%207/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql">User Activity for the Past 30 Days I</a></br>
-2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%207/1693.%20Daily%20Leads%20and%20Partners.sql">Daily Leads and Partners</a></br>
-3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%207/1729.%20Find%20Followers%20Count.sql">Find Followers Count</a></br>
+1. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%207%20FUNCTION/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql">User Activity for the Past 30 Days I</a></br>
+2. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%207%20FUNCTION/1693.%20Daily%20Leads%20and%20Partners.sql">Daily Leads and Partners</a></br>
+3. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%207%20FUNCTION/1729.%20Find%20Followers%20Count.sql">Find Followers Count</a></br>
 
 <h2> Day 8:</h2>
 1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%208/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql">Customer Placing the Largest Number of Orders</a></br>
