@@ -37,8 +37,8 @@ SQL (Structured Query Language) is used to manage relational database management
 3. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%205%20UNION/1148.%20Article%20Views%20I.sql">Article Views I</a></br>
 
 <h2> Day 6:</h2>
-1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%206/197.%20Rising%20Temperature.sql">Rising Temperature</a></br>
-2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%206/607.%20Sales%20Person.sql">Sales Person</a></br>
+1. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%206%20UNION/197.%20Rising%20Temperature.sql">Rising Temperature</a></br>
+2. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%206%20UNION/607.%20Sales%20Person.sql">Sales Person</a></br>
 
 <h2> Day 7:</h2>
 1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%207/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql">User Activity for the Past 30 Days I</a></br>
