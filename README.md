@@ -1,12 +1,8 @@
-# LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS
-THIS REPO CONTAINS ALL SOLUTIONS FOR MYSQL-I 10 DAYS STUDY PLAN OF LEETCODE.
+<div style="color:Tomato;"><h1>LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS <span>       </span><img src="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/README%20Files/sql%20logo.png" width="40px"height="40px" align="absmiddle"/></h1></div>
+<img src="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/README%20Files/SQLI.png" width="20%" height="20%">     
+<h2>THIS REPO CONTAINS ALL SOLUTIONS FOR MYSQL-I 10 DAYS STUDY PLAN OF LEETCODE.</h2>
 
 SQL (Structured Query Language) is used to manage relational database management systems (RDBMS). The scope of SQL includes data insertion, query, update and deletion, database schema creation and modification, and data access control.
-
-<img src="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/README%20Files/sql%20logo.png" width="100px" height="100px"/>
-
-<h1>LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS<img src="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/README%20Files/SQLI.png"width="50px"height="50px" align="absbottom"/></h1>
-
 
 <h2> Day 1:</h2>
 1. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%201%20SELECT/595.%20Big%20Countries.sql">Big Countries</a></br>
