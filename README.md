@@ -1,5 +1,5 @@
 <div style="color:Tomato;"><h1>LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS <span>       </span><img src="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/README%20Files/sql%20logo.png" width="40px"height="40px" align="absmiddle"/></h1></div>
-<img src="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/README%20Files/SQLI.png" width="20%" height="20%">     
+<img src="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/README%20Files/SQLI.png" width="10%" height="10%">     
 <h2>THIS REPO CONTAINS ALL SOLUTIONS FOR MYSQL-I 10 DAYS STUDY PLAN OF LEETCODE.</h2>
 
 SQL (Structured Query Language) is used to manage relational database management systems (RDBMS). The scope of SQL includes data insertion, query, update and deletion, database schema creation and modification, and data access control.
@@ -57,3 +57,5 @@ SQL (Structured Query Language) is used to manage relational database management
 2. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%2010%20WHERE/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql">Actors and Directors Who Cooperated At Least Three Times</a></br>
 3. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%2010%20WHERE/1587.%20Bank%20Account%20Summary%20II.sql">Bank Account Summary II</a></br>
 4. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%2010%20WHERE/1084.%20Sales%20Analysis%20III.sql">Sales Analysis III</a>
+
+<h1>© 2022, RED EAGLE</h1>
