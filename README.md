@@ -26,10 +26,10 @@ SQL (Structured Query Language) is used to manage relational database management
 3. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/Day%203%20STRING%20PROCESSING%20FUNCTIONS/1527.%20Patients%20With%20a%20Condition.sql">Patients With a Condition</a></br>
 
 <h2> Day 4:</h2>
-1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/1965.%20Employees%20With%20Missing%20Information.SQL">Employees With Missing Information</a></br>
-2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/1795.%20Rearrange%20Products%20Table.sql">Rearrange Products Table </a></br>
-3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/608.%20Tree%20Node.sql">Tree Node</a></br>
-4. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/176.%20Second%20Highest%20Salary.sql">Second Highest Salary</a></br>
+1. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%204%20UNION%20%26%20SELECT/1965.%20Employees%20With%20Missing%20Information.sql">Employees With Missing Information</a></br>
+2. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%204%20UNION%20%26%20SELECT/1795.%20Rearrange%20Products%20Table.sql">Rearrange Products Table </a></br>
+3. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%204%20UNION%20%26%20SELECT/608.%20Tree%20Node.sql">Tree Node</a></br>
+4. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%204%20UNION%20%26%20SELECT/176.%20Second%20Highest%20Salary.sql">Second Highest Salary</a></br>
 
 <h2> Day 5:</h2>
 1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%205/175.%20Combine%20Two%20Tables.sql">Combine Two Tables</a></br>
