@@ -58,4 +58,4 @@ SQL (Structured Query Language) is used to manage relational database management
 3. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%2010%20WHERE/1587.%20Bank%20Account%20Summary%20II.sql">Bank Account Summary II</a></br>
 4. <a href="https://github.com/its-red-eagle/LEETCODE-MYSQL-I-STUDY-PLAN-SOLUTIONS/blob/master/DAY%2010%20WHERE/1084.%20Sales%20Analysis%20III.sql">Sales Analysis III</a>
 
-<h1>© 2022, RED EAGLE</h1>
+<h1>© 2022, Vikash Patel</h1>
